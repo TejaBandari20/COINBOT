@@ -1,0 +1,10 @@
+# Note: COINBOT is a Node.js (JavaScript) application.
+# Dependencies are managed via npm using package.json.
+# To install the dependencies, run:
+#   npm install
+#
+# Listed below are the npm package dependencies for reference:
+#   @google/genai: ^2.6.0
+#   axios: ^1.16.1
+#   chalk: ^5.6.2
+#   dotenv: ^17.4.2
